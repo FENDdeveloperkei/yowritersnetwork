@@ -1,2 +1,5 @@
 # yowritersnetwork
-1st attempt
+
+link to live site https://fenddeveloperkei.github.io/yowritersnetwork/
+
+this is the first attempt
