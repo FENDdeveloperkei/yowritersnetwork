@@ -14,7 +14,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
-  background: linear-gradient(160deg, #98f9de 0%, #ffff99 100%);
+  background-image: url("https://github.com/FENDdeveloperkei/yowritersnetwork/blob/master/tenor.gif?raw=");
 }
 
 .header {
@@ -24,7 +24,8 @@ body {
   align-content: flex-end;
   border-bottom: 2px dotted aqua;
   margin-bottom: 10px;
-  background-color: #aa7ecd;
+  background: linear-gradient(160deg, #98f9de 0%, #ffff99 100%);
+  
 }
 
 .footer {
