@@ -31,12 +31,12 @@ body {
 .footer {
   width: 100%;
   font-size: 12px;
-  border-top: 2px solid #E500B8;
+  border-top: 5px dashed #E500B8;
   padding: 1em;
   width: 100%;
   text-align: center;
   color: #aa7ecd;
-  background: linear-gradient(160deg, #ffff99 30%, #98f9de 100%);
+  background: linear-gradient(160deg, #ffffff 30%, #98f9de 100%);
 }
 
 .footer-icon li {
@@ -52,8 +52,8 @@ body {
 
 
 .logo {
-  height: 55px;
-  width: 100px;
+  height: 35px;
+  width: 60px;
   margin-top: 15px;
 }
 
@@ -66,23 +66,23 @@ body {
 }
 
 .name {
-  font-size: 25px;
+  font-size: 40px;
   font-weight: 200;
   margin-top: 20px;
   margin-bottom: 0;
   color: gold;
-  text-transform: uppercase;
+  text-transform: uppercase, bold;
 }
 
 .title {
-  font-size: 14px;
+  font-size: 22px;
   margin-top: 0;
-  color: gold;
-  text-transform: uppercase;
+  color: red;
+  text-transform: uppercase, italic;
 }
 
 .photo img {
-  max-width: 50%;
+  max-width: 70%;
   height: auto;
 }
 
@@ -95,8 +95,8 @@ body {
   margin-top: 10px;
   color: red;
   background-color: white;
-  border-radius: 1em;
-  font-weight: 300;
+  border-radius: 5em;
+  font-weight: 100;
 }
 
 .featured-gallery {
@@ -108,17 +108,17 @@ body {
 }
 
 .item-1, .item-2, .item-3 {
-  margin: 20px;
+  margin: 10px;
   align-items: center;
   justify-content: center;
 }
 
 .featured-text {
   font-size: 16px;
-  color: red;
+  color: blue;
   background-color: white;
-  border-radius: 1em;
-  font-weight: 300;
+  border-radius: 3em;
+  font-weight: 150;
 }
 
 .featured-link a {
@@ -127,15 +127,15 @@ body {
 }
 
 .featured-link a:hover {
-  text-decoration: bold, underline;
-  color: orange;
+  text-decoration: bold, underline, italic;
+  color: blue;
   background-color: white;
 }
 
 .featured-img {
   width: 200px;
   height: 150px;
-  border-radius: 1em;
+  border-radius: 4em;
 }
 
 /* Mobile styles */
